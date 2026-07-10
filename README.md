@@ -4,26 +4,26 @@ I'm a **B.Tech Computer Science & Engineering student** passionate about problem
 
 Currently, I'm focused on **Data Structures & Algorithms**, **Full Stack Web Development**, and **GATE CSE 2027** preparation. I enjoy building projects, writing clean code, and documenting my learning journey through GitHub.
 
-> *I believe that consistency beats intensity. Every project, every solved problem, and every commit is a step toward becoming a better software engineer.*
+> *"Consistency beats intensity. Every solved problem, every project, and every commit is a step toward becoming a better software engineer."*
 
 ---
 
 ## 🙋 About Me
 
-* 🎓 B.Tech Computer Science & Engineering student at **Moradabad Institute of Technology**
+* 🎓 B.Tech CSE student at **Moradabad Institute of Technology**
 * 💻 Interested in **Software Development, Data Structures & Algorithms, and Problem Solving**
-* 🌱 Currently learning **Full Stack Web Development** and strengthening my programming fundamentals
-* 🧩 Solved **80+ LeetCode** problems in C++ and continuously improving my problem-solving skills
+* 🌱 Currently learning **Full Stack Web Development**
+* 🧩 Solved **80+ LeetCode** problems in **C++**
 * 🎯 Preparing for **GATE CSE 2027** alongside placement preparation
-* 🚀 Goal: To become a skilled Software Engineer by building impactful projects and learning consistently
+* 🚀 Working towards becoming a skilled Software Engineer through continuous learning and real-world projects
 
 ---
 
 ## 🚀 Current Focus
 
-* 🧩 Solving Data Structures & Algorithms problems on LeetCode
+* 🧩 Solving Data Structures & Algorithms on LeetCode
 * 🌐 Learning Full Stack Web Development
-* 💻 Building real-world projects
+* 💻 Building real-world web applications
 * 📚 Strengthening Computer Science fundamentals
 * 🌱 Improving Git & GitHub skills
 
@@ -31,44 +31,48 @@ Currently, I'm focused on **Data Structures & Algorithms**, **Full Stack Web Dev
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-* C
-* C++
-* JavaScript
-* PHP
-* SQL
-
-### Frontend
-
-* HTML5
-* CSS3
-
-### Database
-
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* XAMPP
-* LeetCode
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧩 LeetCode Solutions
+### 🧩 [LeetCode Solutions](https://github.com/Anubhavsh24/LeetCode)
 
-A collection of my accepted LeetCode solutions written primarily in C++, automatically synced using LeetHub.
+Collection of my accepted LeetCode solutions written primarily in **C++**, automatically synchronized using **LeetHub**.
 
-### 🏠 PGLife
+### 🏠 PGLife *(Repository Coming Soon)*
 
-A full-stack PG booking web application built using PHP, MySQL, HTML, CSS, and JavaScript.
+A full-stack PG booking web application built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
 
 > More projects will be added as I continue learning and building.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhavsh24&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhavsh24&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavsh24&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🏆 LeetCode Journey
+
+I regularly solve Data Structures & Algorithms problems to strengthen my problem-solving skills and prepare for technical interviews.
+
+**Current Progress**
+
+* ✅ 80+ Problems Solved
+* 💻 Primary Language: C++
+* 🎯 Next Milestone: 100+ Problems
 
 ---
 
@@ -76,30 +80,17 @@ A full-stack PG booking web application built using PHP, MySQL, HTML, CSS, and J
 
 * 🚀 Reach **100+ LeetCode** problems
 * 🌐 Complete Full Stack Web Development
-* 💻 Build more real-world projects
-* 📚 Strengthen DSA and Core Computer Science subjects
-* 🎓 Prepare for GATE CSE 2027
-
----
-
-## 📈 GitHub Stats
-
-> GitHub statistics and activity cards will be added here.
-
----
-
-## 🏆 LeetCode
-
-> Solving problems consistently to improve problem-solving and interview skills.
+* 💻 Build impactful real-world projects
+* 📚 Strengthen Core Computer Science subjects
+* 🎓 Prepare for **GATE CSE 2027**
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/anubhav-bhardwaj-127a80326
-
-* GitHub: https://github.com/Anubhavsh24
+* 💼 LinkedIn: https://www.linkedin.com/in/anubhav-bhardwaj-127a80326/
+* 💻 GitHub: https://github.com/Anubhavsh24
 
 ---
 
-⭐ *Thanks for visiting my profile! I'm always learning, building, and improving one step at a time.*
+⭐ Thanks for visiting my profile! I'm always learning, building, and improving one step at a time.
