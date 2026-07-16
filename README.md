@@ -13,7 +13,7 @@ Currently, I'm focused on **Data Structures & Algorithms**, **Full Stack Web Dev
 * 🎓 B.Tech CSE student at **Moradabad Institute of Technology**
 * 💻 Interested in **Software Development, Data Structures & Algorithms, and Problem Solving**
 * 🌱 Currently learning **Full Stack Web Development**
-* 🧩 Solved **80+ LeetCode** problems in **C++**
+* 🧩 Solved **100+ LeetCode** problems in **C++**
 * 🎯 Preparing for **GATE CSE 2027** alongside placement preparation
 * 🚀 Working towards becoming a skilled Software Engineer through continuous learning and real-world projects
 
@@ -43,7 +43,7 @@ Currently, I'm focused on **Data Structures & Algorithms**, **Full Stack Web Dev
 
 Collection of my accepted LeetCode solutions written primarily in **C++**, automatically synchronized using **LeetHub**.
 
-### 🏠 PGLife *(Repository Coming Soon)*
+### 🏠 PGLife
 
 A full-stack PG booking web application built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
 
