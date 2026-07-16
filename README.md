@@ -70,15 +70,15 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 
 **Current Progress**
 
-* ✅ 80+ Problems Solved
+* ✅ 100+ Problems Solved
 * 💻 Primary Language: C++
-* 🎯 Next Milestone: 100+ Problems
+* 🎯 Next Milestone: 150+ Problems
 
 ---
 
 ## 🎯 Current Goals
 
-* 🚀 Reach **100+ LeetCode** problems
+* 🚀 Reach **150+ LeetCode** problems
 * 🌐 Complete Full Stack Web Development
 * 💻 Build impactful real-world projects
 * 📚 Strengthen Core Computer Science subjects
