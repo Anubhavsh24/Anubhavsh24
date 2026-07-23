@@ -85,6 +85,11 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 * 🎓 Prepare for **GATE CSE 2027**
 
 ---
+## 📈 Contribution Graph
+
+[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsh24&theme=github-compact)](https://github.com/Anubhavsh24)
+
+---
 
 ## 📫 Connect With Me
 
