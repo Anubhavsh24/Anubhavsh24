@@ -90,13 +90,6 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 [![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsh24&theme=github-compact)](https://github.com/Anubhavsh24)
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavsh24&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
