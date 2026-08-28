@@ -13,7 +13,7 @@ Currently, I'm focused on **Data Structures & Algorithms**, **Full Stack Web Dev
 * 🎓 B.Tech CSE student at **Moradabad Institute of Technology**
 * 💻 Interested in **Software Development, Data Structures & Algorithms, and Problem Solving**
 * 🌱 Currently learning **Full Stack Web Development**
-* 🧩 Solved **120+ LeetCode** problems in **C++**
+* 🧩 Solved **150+ LeetCode** problems in **C++**
 * 🎯 Preparing for **GATE CSE 2027** alongside placement preparation
 * 🚀 Working towards becoming a skilled Software Engineer through continuous learning and real-world projects
 
@@ -70,15 +70,15 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 
 **Current Progress**
 
-* ✅ 120+ Problems Solved
+* ✅ 150+ Problems Solved
 * 💻 Primary Language: C++
-* 🎯 Next Milestone: 150+ Problems
+* 🎯 Next Milestone: 200+ Problems
 
 ---
 
 ## 🎯 Current Goals
 
-* 🚀 Reach **150+ LeetCode** problems
+* 🚀 Reach **200+ LeetCode** problems
 * 🌐 Complete Full Stack Web Development
 * 💻 Build impactful real-world projects
 * 📚 Strengthen Core Computer Science subjects
