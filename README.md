@@ -51,19 +51,6 @@ A full-stack PG booking web application built using **PHP**, **MySQL**, **HTML**
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhavsh24&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhavsh24&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavsh24&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🏆 LeetCode Journey
 
 I regularly solve Data Structures & Algorithms problems to strengthen my problem-solving skills and prepare for technical interviews.
@@ -85,9 +72,25 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 * 🎓 Prepare for **GATE CSE 2027**
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavsh24&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavsh24&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anubhavsh24&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📈 Contribution Graph
 
-[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsh24&theme=github-compact)](https://github.com/Anubhavsh24)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsh24&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 
