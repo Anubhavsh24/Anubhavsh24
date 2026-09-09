@@ -84,7 +84,11 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsh24&days=31&theme=tokyo-night&area=true&hide_border=true" width="95%" />
+  <img
+    src="https://raw.githubusercontent.com/Anubhavsh24/Anubhavsh24/output/activity-graph.svg"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 ---
 
