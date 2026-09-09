@@ -73,25 +73,23 @@ I regularly solve Data Structures & Algorithms problems to strengthen my problem
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavsh24&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavsh24&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anubhavsh24&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsh24&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img
+    src="https://gh-heat.anishroy.com/api/Anubhavsh24/svg?theme=green&darkMode=true"
+    alt="GitHub Contribution Graph"
+    width="95%"
+  />
 </p>
-
 ---
 
 ## 📫 Connect With Me
